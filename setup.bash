@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+
 #written by Shinji Ito
 
 exec 2> /tmp/setup.log		#シェルスクリプトでログを記録
