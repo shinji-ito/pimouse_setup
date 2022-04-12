@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by S.Ito
 
 exec 2> /tmp/setup.log		#シェルスクリプトでログを記録
 
